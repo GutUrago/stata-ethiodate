@@ -1,0 +1,13 @@
+v 1
+d ethiodate
+d A module that provides utility functions for Ethiopian date conversions in STATA
+d 
+d Author: Gutama Girja Urago
+d Email: gurago@laterite.com
+d Date: June 20, 2025
+d 
+f /ado/to_ethiopian.ado
+f /ado/to_gregorian.ado
+f /help/ethiodate.sthlp
+f /help/to_ethiopian.sthlp
+f /help/to_gregorian.sthlp

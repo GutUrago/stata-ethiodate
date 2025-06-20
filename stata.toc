@@ -1,0 +1,2 @@
+v 1
+p ethiodate: A module that provides utility functions for Ethiopian date conversions in STATA
