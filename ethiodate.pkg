@@ -1,4 +1,4 @@
-v 1
+v 1.0.0
 d ethiodate
 d A module that provides utility functions for Ethiopian date conversions in STATA
 d 

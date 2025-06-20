@@ -5,7 +5,7 @@
 [![Stata](https://img.shields.io/badge/Stata-ado-blue.svg)](https://www.stata.com)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
 
-**ethiodate** is a lightweight and user-friendly Stata package that provides tools for converting dates between the Ethiopian and Gregorian calendars. It is designed to support researchers, survey analysts, and data managers working with Ethiopian dates in STATA.
+The ***ethiodate*** package offers a fast, reliable, and user-friendly solution for converting dates between the Gregorian and Ethiopian calendar systems directly within Stata. Built in Mata for maximum computational efficiency, it provides super-fast date conversions.
 
 ---
 

@@ -12,7 +12,10 @@ help for {hi:ethiodate}
 {title:Description}
 
 {pstd}
-The {cmd:ethiodate} package offers a fast, reliable, and user-friendly solution for converting dates between the Gregorian and Ethiopian calendar systems directly within Stata. Built in Mata for maximum computational efficiency, it ensures seamless integration with Stata’s time and date functionalities. It provides the tools you need for precise calendar conversion—handling leap years, multiple time formats, and large datasets with ease.
+The {cmd:ethiodate} package offers a fast, reliable, and user-friendly solution for converting dates between the Gregorian and Ethiopian calendar systems directly within Stata. 
+
+{pstd}
+Built in Mata for maximum computational efficiency, it ensures seamless integration with Stata’s time and date functionalities. It provides the tools you need for precise calendar conversion—handling leap years, multiple time formats, and large datasets with ease.
 
 {pstd}
 The package includes two key commands:
